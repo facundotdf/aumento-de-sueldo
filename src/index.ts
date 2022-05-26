@@ -27,4 +27,3 @@ if (sueldo >= 1 && sueldo <= 15000) {
   );
 } else {
   console.log("no tiene aumento");
-}
